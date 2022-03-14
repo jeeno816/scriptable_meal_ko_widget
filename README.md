@@ -8,3 +8,6 @@
 [스크립트 다운](https://raw.githubusercontent.com/jeeno816/scriptable_meal_ko_widget/main/scriptable_급식.scriptable)
 
 <a id="raw-url" href="https://raw.githubusercontent.com/jeeno816/scriptable_meal_ko_widget/main/scriptable_급식.scriptable">Download FILE</a>
+
+
+![사진]("https://user-images.githubusercontent.com/41958835/158159544-5ffe35b3-cb21-4642-88d4-28bbf4c3d9fe.png")
