@@ -1,5 +1,6 @@
 # scriptable 급식 정보 위젯 (ios)
 ![image](https://user-images.githubusercontent.com/41958835/158167464-f07890ed-ba9f-4169-80c1-e2c179009521.jpeg)
+![image](https://user-images.githubusercontent.com/41958835/158172538-87facfbe-9127-486c-a2f0-a279ad8c1de6.png)
 ## scriptable 설치 및 스크립트 설치방법
 
 이 위젯은 scriptable 앱을 다운받아야만 사용가능합니다.
@@ -29,7 +30,7 @@ let meal = [ true , true , false ]
 
 예를들어 본인학교의 표준학교코드는 7010115입니다.
 그다음 코드에 있는 조식/중식/석식의 표시여부를 원하는 것에 따라 true or false 를 입력해주세요.
-이제 홈화면으로 오셔서 홈화면에 위젯을 (중간크기) 추가하고 위젯설정에 들어가 script를 우리의 'scriptable_급식'을 선택하면 완성이됩니다.
+이제 홈화면으로 오셔서 홈화면에 위젯을 추가하고 위젯설정에 들어가 script를 우리의 'scriptable_급식'을 선택하면 완성이됩니다.
 ![image](https://user-images.githubusercontent.com/41958835/158168330-160ae130-816e-4ad4-8a4f-8eb28477e5e5.jpeg)
 
 
