@@ -26,9 +26,9 @@ let meal = [ true , true , false ]
 
 학교이름에 자기 학교이름을 넣고 검색하여 표준학교코드를 복사하여 코드 맨윗줄의 숫자 넣어져있는칸의 숫자를 대치해주세요.
 
-<img width="500" alt="학교코드" src="https://user-images.githubusercontent.com/41958835/158159544-5ffe35b3-cb21-4642-88d4-28bbf4c3d9fe.png">
+![IMG_4528](https://user-images.githubusercontent.com/41958835/158175146-1833f923-ef28-43f4-9742-cab96d5f0746.jpeg)
 
-예를들어 본인학교의 표준학교코드는 7010115입니다.
+예를들어 본인학교의 표준학교코드는 701... 입니다.
 그다음 코드에 있는 조식/중식/석식의 표시여부를 원하는 것에 따라 true or false 를 입력해주세요.
 이제 홈화면으로 오셔서 홈화면에 위젯을 추가하고 위젯설정에 들어가 script를 우리의 'scriptable_급식'을 선택하면 완성이됩니다.
 ![image](https://user-images.githubusercontent.com/41958835/158168330-160ae130-816e-4ad4-8a4f-8eb28477e5e5.jpeg)
