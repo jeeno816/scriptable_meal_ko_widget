@@ -5,4 +5,4 @@
 
 [AppStore 링크](https://apps.apple.com/kr/app/scriptable/id1405459188)
 
-[스크립트 다운](scriptable_급식.scriptable)
+[스크립트 다운](/scriptable_급식.scriptable)
