@@ -1,6 +1,7 @@
+
 //학교 코드 입력 (깃허브 readme파일 참조)
 schul_code="7010115"
-//[조식,중식,석식] 표시 옵션 (아래 예시는 조식 중식이 있고 석식을 안표시하는 경우)
+//[조식,중식,석식] 표시 옵션 (아래 예시는 조식 중식을 표시하고 석식을 안표시하는 경우)
 let meal = [ true , true , false ]
 
 
@@ -86,6 +87,8 @@ init=init+1
 while(!meal[init%3]){
 	init++
 }
+
+if (String(config.widgetFamily)!='small'){
 stack.addSpacer()
 let text2=stack.addText(text[init]+String(array[init]))
 text2.leftAlignText()
@@ -100,7 +103,7 @@ let text3=stack.addText(text[init]+String(array[init]))
 text3.leftAlignText()
 text3.font=new Font('DX영화자막 M',12)
 text3.textColor=new Color('#524A4E')
-
+}
 
 if(!config.runsInWidget){
 	widget.presentMedium()
