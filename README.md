@@ -1,4 +1,4 @@
-# scriptable 급식정보 위젯(ios)
+# scriptable 급식 정보 위젯 (ios)
 ![image](https://user-images.githubusercontent.com/41958835/158167464-f07890ed-ba9f-4169-80c1-e2c179009521.jpeg)
 ## scriptable 설치 및 스크립트 설치방법
 
