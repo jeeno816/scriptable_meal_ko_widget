@@ -5,5 +5,5 @@
 
 [AppStore 링크](https://apps.apple.com/kr/app/scriptable/id1405459188)
 
-<img width="1180" alt="학교코드" src="https://user-images.githubusercontent.com/41958835/158159544-5ffe35b3-cb21-4642-88d4-28bbf4c3d9fe.png">
+<img width="500" alt="학교코드" src="https://user-images.githubusercontent.com/41958835/158159544-5ffe35b3-cb21-4642-88d4-28bbf4c3d9fe.png">
 
