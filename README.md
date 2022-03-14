@@ -10,7 +10,7 @@
 
 
 
-[스크립트 다운로드](https://drive.google.com/file/d/1OEhZYr1Ad42og444r-z3SecoA4LcNLFv/view?usp=drivesdk)
+[스크립트 다운로드](https://drive.google.com/file/d/1OSTDQluf78mSbw_OWBwYldwRf_lGN6QU/view?usp=drivesdk)
 
 ```
 //학교 코드 입력 (깃허브 readme파일 참조)
