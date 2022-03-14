@@ -5,9 +5,5 @@
 
 [AppStore 링크](https://apps.apple.com/kr/app/scriptable/id1405459188)
 
-[스크립트 다운](https://raw.githubusercontent.com/jeeno816/scriptable_meal_ko_widget/main/scriptable_급식.scriptable)
+<img width="1180" alt="학교코드" src="https://user-images.githubusercontent.com/41958835/158159544-5ffe35b3-cb21-4642-88d4-28bbf4c3d9fe.png">
 
-<a id="raw-url" href="https://raw.githubusercontent.com/jeeno816/scriptable_meal_ko_widget/main/scriptable_급식.scriptable">Download FILE</a>
-
-
-![사진]("https://user-images.githubusercontent.com/41958835/158159544-5ffe35b3-cb21-4642-88d4-28bbf4c3d9fe.png")
